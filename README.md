@@ -21,10 +21,15 @@ SSRN: https://ssrn.com/abstract=7627799 (approval pending) · Data and code: htt
 
 Verifies six British pound stablecoins across five blockchains and finds a very small, highly concentrated market with four distinct issuance models and uneven consumer protection. A twelve-month analysis of more than 84,000 transfers shows that 78% of one token's transactions were card payments made by a small, recurring and declining group of users. Extends the verification theme of Paper 2 from AI systems to on-chain financial data.
 
+## Policy engagement
+
+**Feedback to the Reserve Bank of India on the Draft Guidance on Regulatory Principles for Model Risk Management, 2026** (July 2026)
+Submitted via RBI's Connect 2 Regulate portal, Public Consultation No. C2R/2026-27/487. Drawing on Regional Rural Bank experience and Paper 2, it recommends simple operational artefacts for smaller regulated entities: named decision owners in the model inventory, outcome monitoring by model version and borrower segment, and a maker checker style human review tier for high impact decisions.
+Full text: [policy-engagement/rbi-model-risk-comment-2026.md](policy-engagement/rbi-model-risk-comment-2026.md)
+
 ## In progress
 
-- Open toolkit of templates from Paper 2: decision ownership register, guardrail policy, outcome monitoring dashboard structure, and review queue log.
-- Reading and notes on AI governance in financial services. See ai-governance/reading-list.md.
+- An open toolkit of templates from Paper 2: decision ownership register, guardrail policy, outcome monitoring dashboard structure, and review queue log.
 
 ## Why this repo is public
 
