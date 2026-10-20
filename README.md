@@ -27,6 +27,16 @@ Verifies six British pound stablecoins across five blockchains and finds a very 
 Submitted via RBI's Connect 2 Regulate portal, Public Consultation No. C2R/2026-27/487. Drawing on Regional Rural Bank experience and Paper 2, it recommends simple operational artefacts for smaller regulated entities: named decision owners in the model inventory, outcome monitoring by model version and borrower segment, and a maker checker style human review tier for high impact decisions.
 Full text: [policy-engagement/rbi-model-risk-comment-2026.md](policy-engagement/rbi-model-risk-comment-2026.md)
 
+## Open-source contributions
+
+**DefiLlama stablecoin data** (October 2026 onwards)
+Contributions to [DefiLlama/peggedassets-server](https://github.com/DefiLlama/peggedassets-server), the open-source repository behind DefiLlama's stablecoin dashboard. Applies the verification method from Paper 3 to a widely used public data platform.
+
+- [#948](https://github.com/DefiLlama/peggedassets-server/pull/948): Added Monerium GBP emoney (GBPE) to the stablecoin dashboard across six chains. Merged 20 Oct 2026.
+- [#949](https://github.com/DefiLlama/peggedassets-server/pull/949): Corrected the GBPE mint/redeem description using Monerium's official help centre. Open.
+
+Record and evidence: [open-source-contributions/defillama](open-source-contributions/defillama/)
+
 ## In progress
 
 - An open toolkit of templates from Paper 2: decision ownership register, guardrail policy, outcome monitoring dashboard structure, and review queue log.
