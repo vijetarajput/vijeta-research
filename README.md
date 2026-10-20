@@ -17,7 +17,7 @@ SSRN: https://ssrn.com/abstract=7161058 · DOI: https://doi.org/10.2139/ssrn.716
 Translates four traditional banking controls, sanctioning authority chains, red flag checklists, early warning monitoring and maker checker review, into practical operational controls for AI lending systems, with India as the context. Extends Paper 1's core finding: systems only work when they enter daily decision making.
 
 **3. Sterling Stablecoins On-Chain: A Multi-Source Verification Study of Market Structure, Regulatory Models and Payment Use** (October 2026, preprint, under review)
-SSRN: https://ssrn.com/abstract=7627799 (approval pending) · Data and code: https://github.com/vijetarajput/gbp-stablecoin-analysis
+SSRN: https://ssrn.com/abstract=7627799 · DOI: https://doi.org/10.2139/ssrn.7627799 · Data and code: https://github.com/vijetarajput/gbp-stablecoin-analysis
 
 Verifies six British pound stablecoins across five blockchains and finds a very small, highly concentrated market with four distinct issuance models and uneven consumer protection. A twelve-month analysis of more than 84,000 transfers shows that 78% of one token's transactions were card payments made by a small, recurring and declining group of users. Extends the verification theme of Paper 2 from AI systems to on-chain financial data.
 
