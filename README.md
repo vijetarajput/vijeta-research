@@ -33,7 +33,7 @@ Full text: [policy-engagement/rbi-model-risk-comment-2026.md](policy-engagement/
 Contributions to [DefiLlama/peggedassets-server](https://github.com/DefiLlama/peggedassets-server), the open-source repository behind DefiLlama's stablecoin dashboard. Applies the verification method from Paper 3 to a widely used public data platform.
 
 - [#948](https://github.com/DefiLlama/peggedassets-server/pull/948): Added Monerium GBP emoney (GBPE) to the stablecoin dashboard across six chains. Merged 20 Oct 2026.
-- [#949](https://github.com/DefiLlama/peggedassets-server/pull/949): Corrected the GBPE mint/redeem description using Monerium's official help centre. Open.
+- [#949](https://github.com/DefiLlama/peggedassets-server/pull/949): Corrected the GBPE mint/redeem description using Monerium's official help centre. Merged 22 Oct 2026.
 
 Record and evidence: [open-source-contributions/defillama](open-source-contributions/defillama/)
 
