@@ -37,6 +37,13 @@ Contributions to [DefiLlama/peggedassets-server](https://github.com/DefiLlama/pe
 
 Record and evidence: [open-source-contributions/defillama](open-source-contributions/defillama/)
 
+**Dune Spellbook token prices** (October 2026 onwards)
+Contributions to [duneanalytics/spellbook](https://github.com/duneanalytics/spellbook), the open-source data layer behind Dune's curated tables.
+
+- [#10090](https://github.com/duneanalytics/spellbook/pull/10090): Adds Monerium EURe v2 contracts to Dune's price tables across six chains, after verifying the addresses against Monerium's documentation. Open, all checks passed.
+
+Record and evidence: [open-source-contributions/dune](open-source-contributions/dune/)
+
 ## In progress
 
 - An open toolkit of templates from Paper 2: decision ownership register, guardrail policy, outcome monitoring dashboard structure, and review queue log.
