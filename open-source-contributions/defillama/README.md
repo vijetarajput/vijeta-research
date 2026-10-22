@@ -7,7 +7,7 @@ Open-source contributions to [DefiLlama/peggedassets-server](https://github.com/
 | Date | Pull request | What it does | Status |
 |---|---|---|---|
 | 18 Oct 2026 | [#948](https://github.com/DefiLlama/peggedassets-server/pull/948) | Adds Monerium GBP emoney (GBPE) to the stablecoins dashboard across six chains (Ethereum, Gnosis, Polygon, Arbitrum, Base, Linea) | Merged 20 Oct 2026 |
-| 20 Oct 2026 | [#949](https://github.com/DefiLlama/peggedassets-server/pull/949) | Corrects the GBPE mint/redeem description after verifying that Monerium does not currently offer GBP IBANs | Open |
+| 20 Oct 2026 | [#949](https://github.com/DefiLlama/peggedassets-server/pull/949) | Corrects the GBPE mint/redeem description after verifying that Monerium does not currently offer GBP IBANs | Merged 22 Oct 2026 |
 
 ## How the gap was found (#948)
 
