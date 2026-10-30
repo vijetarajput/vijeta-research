@@ -9,6 +9,7 @@ Open-source contributions to [DefiLlama/peggedassets-server](https://github.com/
 | 18 Oct 2026 | [#948](https://github.com/DefiLlama/peggedassets-server/pull/948) | Adds Monerium GBP emoney (GBPE) to the stablecoins dashboard across six chains (Ethereum, Gnosis, Polygon, Arbitrum, Base, Linea) | Merged 20 Oct 2026 |
 | 20 Oct 2026 | [#949](https://github.com/DefiLlama/peggedassets-server/pull/949) | Corrects the GBPE mint/redeem description after verifying that Monerium does not currently offer GBP IBANs | Merged 22 Oct 2026 |
 | 22 Oct 2026 | [#957](https://github.com/DefiLlama/peggedassets-server/pull/957) | Corrects the tGBP description, which called tGBP "the only" GBP stablecoin issued by a UK FCA-registered firm; the FCA register shows a second such firm (Agant Finance Limited, registered since 11 Feb 2026) | Merged 29 Oct 2026 |
+| 30 Oct 2026 | [#967](https://github.com/DefiLlama/peggedassets-server/pull/967) | Updates the EURE description to name Monerium's current supervisor, the Financial Supervisory Authority of the Central Bank of Iceland (source: Monerium's EURe MiCA white paper) | Open |
 
 ## How the gap was found (#948)
 
@@ -23,7 +24,7 @@ Open-source contributions to [DefiLlama/peggedassets-server](https://github.com/
 - The FCA Financial Services Register shows BCP Technologies Ltd (tGBP issuer, FRN 928840, registered since 3 Dec 2021) and Agant Finance Limited (GBPA issuer, FRN 1037671, registered since 11 Feb 2026), both with type "MLD cryptoassets".
 - The PR replaced the claim with the issuer's name and registration type (one line changed), using the same wording as DefiLlama's GBPA description.
 
-## Data audits: other GBP stablecoins
+## Data audits
 
 | Date | Token | Check | Result |
 |---|---|---|---|
@@ -31,6 +32,7 @@ Open-source contributions to [DefiLlama/peggedassets-server](https://github.com/
 | 20 Oct 2026 | VNX British Pound (VGBP) | Supply by chain vs my register | Consistent; Ethereum contract deployed with zero supply |
 | 22 Oct 2026 | Agant GBP (GBPA) | Addresses on all five chains vs Agant's official docs; supply on Base, Solana, Arc and Tempo explorers | Consistent, no change needed |
 | 24 Oct 2026 | Tokenised GBP (tGBP) | Addresses on all eight chains vs the official tGBP contract register | Consistent, no change needed |
+| 30 Oct 2026 | Monerium EUR emoney (EURe) | Addresses vs Monerium's token documentation; chain coverage | Six EVM addresses consistent; Scroll contract holds no supply; outdated description fixed in #967 |
 
 ## Evidence
 
