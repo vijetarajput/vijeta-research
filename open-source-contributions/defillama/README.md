@@ -34,6 +34,7 @@ Open-source contributions to [DefiLlama/peggedassets-server](https://github.com/
 | 22 Oct 2026 | Agant GBP (GBPA) | Addresses on all five chains vs Agant's official docs; supply on Base, Solana, Arc and Tempo explorers | Consistent, no change needed |
 | 24 Oct 2026 | Tokenised GBP (tGBP) | Addresses on all eight chains vs the official tGBP contract register | Consistent, no change needed |
 | 30 Oct 2026 | Monerium EUR emoney (EURe) | Addresses vs Monerium's token documentation; chain coverage | Six EVM addresses consistent; Scroll contract holds no supply; outdated description fixed in #967 |
+| 6 Nov 2026 | Mento British Pound (GBPm) | Celo address vs Celo docs; Monad address vs Mento's contracts package and Monadscan | Consistent; Mento's package also lists an empty Monad contract (0 supply), DefiLlama uses the active one |
 
 ## Evidence
 
