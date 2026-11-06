@@ -10,6 +10,7 @@ Open-source contributions to [DefiLlama/peggedassets-server](https://github.com/
 | 20 Oct 2026 | [#949](https://github.com/DefiLlama/peggedassets-server/pull/949) | Corrects the GBPE mint/redeem description after verifying that Monerium does not currently offer GBP IBANs | Merged 22 Oct 2026 |
 | 22 Oct 2026 | [#957](https://github.com/DefiLlama/peggedassets-server/pull/957) | Corrects the tGBP description, which called tGBP "the only" GBP stablecoin issued by a UK FCA-registered firm; the FCA register shows a second such firm (Agant Finance Limited, registered since 11 Feb 2026) | Merged 29 Oct 2026 |
 | 30 Oct 2026 | [#967](https://github.com/DefiLlama/peggedassets-server/pull/967) | Updates the EURE description to name Monerium's current supervisor, the Financial Supervisory Authority of the Central Bank of Iceland (source: Monerium's EURe MiCA white paper) | Merged 6 Nov 2026 |
+| 6 Nov 2026 | ARYZE eGBP (eGBP) | Supply on Ethereum, Polygon and BNB Chain explorers vs DefiLlama | Consistent (8,029 total, almost all on Polygon); token largely dormant, no change needed |
 
 ## How the gap was found (#948)
 
