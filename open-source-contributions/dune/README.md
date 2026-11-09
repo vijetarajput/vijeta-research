@@ -7,7 +7,7 @@ Open-source contributions to [duneanalytics/spellbook](https://github.com/dunean
 | Date | Pull request | What it does | Status |
 |---|---|---|---|
 | 21 Oct 2026 | [#10090](https://github.com/duneanalytics/spellbook/pull/10090) | Adds Monerium EURe v2 contracts to Dune's curated price tables on six chains (Ethereum, Gnosis, Polygon, Arbitrum, Base, Linea) | Open, all checks passed |
-| 9 Nov 2026 | [#10124](https://github.com/duneanalytics/spellbook/pull/10124) | Adds Tokenised GBP (tGBP), the largest GBP stablecoin, to Dune's curated price tables on seven chains (Ethereum, Base, Arbitrum, Polygon, BNB Chain, Avalanche, Gnosis) | Draft |
+| 9 Nov 2026 | [#10124](https://github.com/duneanalytics/spellbook/pull/10124) | Adds Tokenised GBP (tGBP), the largest GBP stablecoin, to Dune's curated price tables on seven chains (Ethereum, Base, Arbitrum, Polygon, BNB Chain, Avalanche, Gnosis) | Open, all checks passed |
 
 ## How the gap was found (#10090)
 
